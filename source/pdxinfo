@@ -1,0 +1,7 @@
+name=Light Year 200X
+author=Clayton Hayes
+description=Your colony ship runs into trouble on the 200Xth light year of its journey. How long can you keep the hibernating colonists alive?
+bundleID=com.helloitsclayton.lightyear200X
+version=0.1
+buildNumber=7
+imagePath=images/launcher
