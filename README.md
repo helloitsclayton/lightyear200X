@@ -1,6 +1,6 @@
 # Light Year 200X
 
-Created using the Playdate SDK. All assets are my own unless otherwise noted (notably the fonts and 16px input icons).
+Created using the Playdate SDK. All assets are my own unless otherwise noted (e.g., fonts and 16px input icons).
 
 - Move using crank
    - Hit Left or Right to switch to horizontal movement
